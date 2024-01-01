@@ -141,7 +141,7 @@
     "jsdom": "22.1.0",
     "jsonc-eslint-parser": "^2.1.0",
     "lint-staged": "^15.0.2",
-    "newman": "^6.0.0",
+    "newman": "^6.1.0",
     "nx": "17.0.1",
     "prettier": "^3.0.3",
     "prisma": "^4.16.1",
