@@ -72,7 +72,7 @@
     "@nx/node": "17.0.1",
     "@nx/playwright": "17.0.2",
     "@nx/react": "17.0.1",
-    "@nx/storybook": "17.0.1",
+    "@nx/storybook": "18.0.4",
     "@nx/vite": "17.0.1",
     "@nx/web": "17.0.1",
     "@nx/webpack": "17.0.1",
