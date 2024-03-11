@@ -291,7 +291,7 @@ jobs:
         run: npm ci --no-audit --prefer-offline --progress=false
       - run: npx nx build demo
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v2
+        uses: nwtgck/actions-netlify@v3
         with:
           publish-dir: './dist/apps/demo'
           github-token: ${{ secrets.GITHUB_TOKEN }}
